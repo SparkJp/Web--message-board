@@ -26,3 +26,7 @@ Controller:
 myServlet 判断用户是否已存在并进行管理员权限的识别，进行用户注册
 contentServlet 进行page页面的初始化，获取管理员状态等
 userServlet 进行管理员页面的初始化，并根据相应动作更新数据库状态
+
+留言功能部分使用了百度公司的Uedit套件，使用者可自行解压。
+
+使用JDBC连接数据库，可在connect配置中自行更改。
