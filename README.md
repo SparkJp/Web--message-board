@@ -3,7 +3,7 @@
 
 数据库采用Mysql，数据类型与ER图如下：
 
-![](https://res.cloudinary.com/xxxhlown/image/upload/v1626926194/2_nyufqv.png)
+![](https://res.cloudinary.com/xxxhlown/image/upload/v1626927163/web-message/2_ezrr2n.png)
 ![](https://res.cloudinary.com/xxxhlown/image/upload/v1626926049/web-message/1_bfpev2.png)
 
 本次简介留言板采用MVC模式，各个部分如下：
@@ -43,3 +43,11 @@ userServlet 进行管理员页面的初始化，并根据相应动作更新数�
 留言功能部分使用了百度公司的Uedit套件，使用者可自行解压。
 
 使用JDBC连接数据库，可在connect配置中自行更改。
+
+部分界面截图如下：
+
+![](https://res.cloudinary.com/xxxhlown/image/upload/v1626927051/web-message/register_tfbhiz.png)
+![](https://res.cloudinary.com/xxxhlown/image/upload/v1626927051/web-message/first_mb6amh.png)
+![](https://res.cloudinary.com/xxxhlown/image/upload/v1626927051/web-message/second_xd2bc6.png)
+![](https://res.cloudinary.com/xxxhlown/image/upload/v1626927050/web-message/admin_cjcinl.png)
+
